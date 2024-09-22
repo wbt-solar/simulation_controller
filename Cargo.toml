@@ -1,0 +1,8 @@
+[package]
+name = "controller"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+redis = "0.27.2"
+colored = "2.0"
